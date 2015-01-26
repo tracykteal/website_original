@@ -1,0 +1,165 @@
+<html>
+<head>
+<title>Tracy Teal's Proposals</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" href="../styles/home.css" type="text/css">
+
+<script language="JavaScript" type="text/javascript">
+<!--
+// for mouseovers
+function replaceClass(objCalling, txtClassName)
+{
+   objCalling.className = txtClassName;
+   window.event.cancelBubble = true;
+}
+-->
+</script>
+</head>
+
+<body bgcolor=white>
+<table border=0 width=80% cellpadding=0 cellspacing=0 align=center>
+
+<tr>
+<td width=1% align=left bgcolor=black>&nbsp;</td>
+<td bgcolor=black colspan=2><font size=-2>&nbsp;</td>
+<td width=1% align=right bgcolor=black>&nbsp;</td>
+</tr>
+
+
+<tr>
+<td bgcolor=black>&nbsp;</td>
+<td bgcolor=black width=120>
+
+
+
+<!-- ########### Change image and top bar text here ############ -->
+
+<img src=../images/0031.jpeg width=150>
+</td>
+<td bgcolor=black>
+<font color=#f4f4f4 face=verdana><b>Proposals</b></font> 
+<td bgcolor=black>&nbsp;</td>
+</tr>
+
+<!-- ###############  End changes ################# -->
+
+
+<tr><td bgcolor=white colspan=4>&nbsp;</td></tr>
+
+<tr>
+<td bgcolor=white>&nbsp;</td>
+
+<td valign=top align=left bgcolor=white colspan=2>
+
+<table border=0 cellpadding=4>
+<tr><td width=12% valign=top align=left>
+
+<!-- ### Change all classes to warmMenu if selected and change href's ### -->
+
+<a HREF="../index.shtml" 
+class="coolMenu"
+onMouseOver="replaceClass(this,'warmMenu')" 
+onMouseOut="replaceClass(this,'coolMenu')">
+Home</a>
+
+<p>
+<a HREF="../research/index.shtml" 
+class="coolMenu"
+onMouseOver="replaceClass(this,'warmMenu')" 
+onMouseOut="replaceClass(this,'coolMenu')">
+Research</a>
+
+<p>
+<a HREF="../tools/index.shtml" 
+class="coolMenu"
+onMouseOver="replaceClass(this,'warmMenu')" 
+onMouseOut="replaceClass(this,'coolMenu')">
+Tools</a>
+
+<p>
+<a HREF="../proposals/index.shtml"
+class="warmMenu"
+onMouseOver="replaceClass(this,'warmMenu')"
+onMouseOut="replaceClass(this,'warmMenu')">
+Proposals</a>
+
+
+<!--
+<p>
+<a HREF="../publications/index.shtml" 
+class="coolMenu"
+onMouseOver="replaceClass(this,'warmMenu')" 
+onMouseOut="replaceClass(this,'coolMenu')">
+Publications</a>
+
+<p>
+<a HREF="../cv/index.shtml" 
+class="coolMenu"
+onMouseOver="replaceClass(this,'warmMenu')" 
+onMouseOut="replaceClass(this,'coolMenu')">
+CV</a>
+-->
+
+<!-- ##### End menu #### -->
+
+
+<br>&nbsp;<br>
+
+</td>
+
+
+<td bgcolor=white>
+
+<!-- ######## Content of page ########## -->
+
+
+<font face=verdana size=-1>
+<b>Proposals</b>
+
+<dl>
+<dt><i>Call for 2013 LTER Training Working Groups</i>
+<br>&nbsp;
+<dt><a href=lter_swc.pdf>Data Management and Computational Skills Training for LTER Scientists</a>
+<dt>Proposal by Tracy Teal, Ethan White and Greg Wilson
+<dd>A proposal with the goal of helping LTER scientists to be more productive
+ and make more effective use of LTER datasets by teaching them basic computing skills and a general approach to working in data-driven science, by running <a href=http://software-carpentry.org>Software Carpentry</a> workshops at multiple LTER sites.
+
+</dl>
+
+
+
+
+
+<!-- ##########  End Main Content ########## -->
+
+
+</td></tr></table>
+
+
+</td>
+
+<td>
+&nbsp;
+</td>
+
+</td></tr>
+
+<tr><td colspan=4><br><hr></td></tr>
+<tr><td>&nbsp;</td><td colspan=3><font size=-1><i>
+Last updated: April 12, 2012
+<br>Title photo credit: William R. Hewlett, California Academy of Sciences
+</font></i></td></tr>
+
+
+</table>
+
+</body>
+</html>
+
+
+
+
+
+
+
+

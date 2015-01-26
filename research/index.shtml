@@ -1,0 +1,353 @@
+<html>
+<head>
+<title>Tracy Teal's Research</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" href="../styles/home.css" type="text/css">
+
+<script language="JavaScript" type="text/javascript">
+<!--
+// for mouseovers
+function replaceClass(objCalling, txtClassName)
+{
+   objCalling.className = txtClassName;
+   window.event.cancelBubble = true;
+}
+-->
+</script>
+</head>
+
+<body bgcolor=white>
+<table border=0 width=80% cellpadding=0 cellspacing=0 align=center>
+
+<tr>
+<td width=1% align=left bgcolor=black>&nbsp;</td>
+<td bgcolor=black colspan=2><font size=-2>&nbsp;</td>
+<td width=1% align=right bgcolor=black>&nbsp;</td>
+</tr>
+
+
+<tr>
+<td bgcolor=black>&nbsp;</td>
+<td bgcolor=black width=120>
+
+
+
+
+<!-- ########### Change image and top bar text here ############ -->
+
+<img src=../images/0015.jpeg width=150>
+</td>
+<td bgcolor=black>
+<font color=#f4f4f4 face=verdana><b>Research</b></font> 
+<td bgcolor=black>&nbsp;</td>
+</tr>
+
+<!-- ###############  End changes ################# -->
+
+
+<tr><td bgcolor=white colspan=4>&nbsp;</td></tr>
+
+<tr>
+<td bgcolor=white>&nbsp;</td>
+
+<td valign=top align=left bgcolor=white colspan=2>
+
+<table border=0 cellpadding=4>
+<tr><td width=12% valign=top align=left>
+
+<!-- ### Change all classes to warmMenu if selected and change href's ### -->
+
+<a HREF="../index.shtml" 
+class="coolMenu"
+onMouseOver="replaceClass(this,'warmMenu')" 
+onMouseOut="replaceClass(this,'coolMenu')">
+Home</a>
+
+<p>
+<a HREF="../research/index.shtml" 
+class="warmMenu"
+onMouseOver="replaceClass(this,'warmMenu')" 
+onMouseOut="replaceClass(this,'warmMenu')">
+Research</a>
+
+<p>
+<a HREF="../tools/index.shtml" 
+class="coolMenu"
+onMouseOver="replaceClass(this,'warmMenu')" 
+onMouseOut="replaceClass(this,'coolMenu')">
+Tools</a>
+
+<p>
+<a HREF="../proposals/index.shtml"
+class="coolMenu"
+onMouseOver="replaceClass(this,'warmMenu')"
+onMouseOut="replaceClass(this,'coolMenu')">
+Proposals</a>
+
+<!--
+<p>
+<a HREF="../publications/index.shtml" 
+class="coolMenu"
+onMouseOver="replaceClass(this,'warmMenu')" 
+onMouseOut="replaceClass(this,'coolMenu')">
+Publications</a>
+
+<p>
+<a HREF="../cv/index.shtml" 
+class="coolMenu"
+onMouseOver="replaceClass(this,'warmMenu')" 
+onMouseOut="replaceClass(this,'coolMenu')">
+CV</a>
+-->
+
+<!-- ##### End menu #### -->
+
+
+<br>&nbsp;<br>
+
+</td>
+
+
+<td bgcolor=white>
+
+<!-- ######## Content of page ########## -->
+
+<font face=verdana size=-1>
+
+
+My research focuses on microbial communities as complex adaptive systems that are able
+to respond to environmental perturbations. Overally communities are resilient, 
+adapting to local conditions, but the function of the community and its
+structure may change. As community function changes so too are the processes that
+it catalyzes. I'm particularly interested in the relationship between land use
+change, microbial community taxonomic and functional composition and carbon and nitrogen cycling.
+
+<!--
+Three factors that contribute to the resiliency of a community are 
+responsive, regulatory feedbacks, diversity and redundancy and modular networks.
+<p>
+<b>Responsive and regulatory feedbacks</b>
+Feedback is most easily addressed using 
+
+
+-->
+<p>
+<b>Postdoctoral research</b>
+<p>NSF Postdoctoral Fellow in Biological Informatics
+<br>Laboratory of <a href=http://micrbiobiomes.msu.edu>Thomas Schmidt</a> at Michigan State University
+<p>My research focused on the ecology of microbial communities in soil and 
+the greenhouse gas fluxes they catalyze.  
+I also developed tools to be used in metagenomic analyses and published a <a href=http://github.com/tracykteal/replicate-filter/>Replicate Filter</a> for removing artifical replicates in 454 data.
+<dt><i>Publications</i>
+<br>
+- Levine UY, Teal TK, Robertson GP, Schmidt TM.  
+Agriculture's impact on microbial diversity and associated fluxes of methane and carbon dioxide. 
+<a href=http://www.nature.com/ismej/journal/v5/n10/full/ismej201140a.html>
+ISME J. 2011 Oct;5(10):1683-91 
+</a>
+(2011)
+<br>
+- Teal TK, Schmidt TM.  
+Identifying and removing artificial replicates from 454 pyrosequencing data
+<a href=http://cshprotocols.cshlp.org/content/2010/4/pdb.prot5409.long>
+Cold Spring Harb Protoc.  Apr. 2010. 
+</a>
+(2010)
+<br>
+- Gomez-Alvarez V*, Teal TK*, Schmidt TM.  
+Systematic artifacts in metagenomes from complex microbial communities.  
+<a href=http://www.nature.com/ismej/journal/v3/n11/full/ismej200972a.html>
+ISME J. 3(11): 1314-17. 
+</a>
+(2009)
+</dd>
+
+
+<p>
+<br><b>Software developer</b>
+<p>I worked as a developer for <a href=http:/www.textpresso.org>Textpresso</a> creating new databases and developing tools for database setup and curation.
+
+<dt><i>Publications</i>
+<br>
+- Muller H, Rangarajan A, Teal TK and Sternberg PW.  Textpresso for Neuroscience: Searching   
+      the Full Text of Thousands of Neuroscience Research Papers</a>.  <a href=http://www.springerlink.com/content/r2334781161l27n8/?MUD=MP>Neuroinformatics. 6(3): 195-204.</a> (2008).
+</dd>
+
+<br>&nbsp;
+<p>
+<b>Graduate studies</b>
+<p>Graduate student in Computation and Neural Systems at <a href=http://www.caltech.edu>California Institute of Technology</a> 
+<br>in the labs of 
+<a href=http://dknlab.caltech.edu/>Dianne Newman</a> and <a href=http://woldlab.caltech.edu/>Barbara Wold</a>
+<p>I studied the metabolic organization of bacterial biofilms and worked with
+<a href=http://www.shewanella.org><i>Shewanella oneidensis</i></a> strain MR-1.  I also developed a program to search for regulatory motifs in bacteria to help determine how redox-active antibiotics controlled expression in divergent bacteria.
+<p><b>Thesis:</b> <a href=thesis_biofilm-include.pdf>Studies of the Spatial Organization of Metabolism in <i>Shewanella oneidensis</i> and <i>Pseudomonas aeruginosa</i> Biofilms</a>
+<br>PhD Thesis, Computation and Neural Systems.  California Institute of Technology. (2007)
+<dt><i>Publications</i>
+<br>
+- Dietrich LEP, Teal TK, Price-Whelan A, Newman DK. Redox-active antibiotics control gene expression and community behavior in divergent bacteria.  
+<a href=http://www.ncbi.nlm.nih.gov/pubmed/18755976>
+Science. Vol 321. no. 5893, pp. 1203-1206. 
+</a>
+(2008)
+<br>- Teal TK, Lies DP, Wold BJ, Newman DK.  Spatiometabolic stratification in <i>Shewanella oneidensis</i> biofilms.  
+<a href=http://aem.asm.org/cgi/content/abstract/72/11/7324?etoc>Applied and Environmental Microbiology.  72(11):7324-30</a> (2006).
+</dd>
+<P>
+I also did a project at the <a href=http://www.jpl.nasa.gov>NASA Jet Propulsion Laboratory</a> in the Center for Life Detection with Dr. Ken Nealson
+characterizing <i>Anaerabranca californiensis</i> with Dr. Alexandre
+Tsapin and Dr. Vladimir Gorlenko.  
+<dt><i>Publications</i>
+<br>
+- Gorlenko V, Tsapin A, Zorigto N, Teal TK, Tourova T, Engler D, Mielke R, Nealson, K.
+Anaerobranca californiensis sp. nov., an anaerobic, alkalithermophilic, fermentative bacterium isolated from a hot spring on Mono Lake.  
+<a href=http://ijs.sgmjournals.org/cgi/content/abstract/54/3/739>
+International Journal of Systematic and Evolutionary Microbiology.  Vol 54 pp. 739-743</a> 
+(2004)
+</dd>
+
+<p>
+Before venturing into work with real bacteria, I worked with Dr. Chris Adami using <a href=http://devolab.msu.edu/><i>Avida</i></a>.  This program is a digital simulation of bacterial evolution,
+and I was trying to determine the error threshold for different
+populations.
+
+<p>
+Masters student at <a href=http://www.ucla.edu>UCLA</a> in Ecology and Evolutionary Biology
+<br>in the lab of <a href=http://taylor0.biology.ucla.edu>Dr. Charles Taylor</a>
+<p>My research was in evolution and computational liguistics, studying how the way that people learn language affects its evolution.
+I developed a computational approach using minimum description length algorithms of formal languages to study how learning via compression affects the evolution of languages.
+<p><b>Thesis:</b> <a href=thesis.pdf>The effects of compression on language acquisition and
+compression.</a>
+<br>Master's Thesis, Department of Organisimic Biology, Ecology and Evolution.  University of California, Los Angeles. (1999)</a>
+
+
+<dt><i>Publications</i>
+<br>
+- Teal T., Albro D., Stabler E. and Taylor C.E., 
+Compression and adaptation, In 
+<a href=ecal.pdf>
+<i>Fifth European Conference on Artificial Life</i>(pp. 709-19). Springer-Verlag.
+</a> 
+(1999).
+<br>- Teal T.K. and Taylor C.E., Effects of compression on language
+evolution. 
+<a href=alife_revised.pdf>
+<i>Artificial Life</i> Vol 6 Num 2 (pp. 129-143). MIT Press.
+</a>
+(2000)
+</dd>
+
+
+
+<p>While a grad student at UCLA I attended the Santa Fe
+Institute 
+<a href=http://www.santafe.edu/education/schools/complex-systems-summer-schools/>
+Complex Systems Summer School</a> and was involved in Artificial
+Life, particularly the conferences 
+Alife VI and 
+Alife VII.
+<p>
+My BS is in <a href=http://www.cs.ucla.edu/~cyber/>Cybernetics</a> for UCLA where I worked in computer support
+for Research and Instructional Biocomputing Services.
+
+<!--
+<p>
+<a name=publications>
+<u>Publications</u>
+
+<p>
+<table border=1 cellpadding=8>
+<tr>
+<td>Teal TK, Lies DP, Wold BJ, Newman DK.
+<br>Spatiometabolic stratification of <i>Shewanella oneidensis</i> biofilms
+<br>AEM, November 2006, p. 7324-7330, Vol. 72, No. 11
+</td>
+<td>&nbsp;</td>
+<td><a href=http://aem.asm.org/cgi/content/abstract/72/11/7324?etoc>link</a>
+</td>
+</tr>
+
+<tr>
+<td>
+Gorlenko V, Tsapin A, Namsaraev Z, Teal T, Tourova T, Engler D, Mielke R, Nealson K., 
+<br><i>Anaerobranca californiensis</i> sp. nov., an anaerobic, alkalithermophilic, 
+fermentative bacterium isolated from a hot spring on Mono Lake
+<br>Int J Syst Evol Microbiol. 2004 May;54(Pt 3):739-43.
+</td>
+<td>
+&nbsp;
+</td>
+<td>
+<a href=http://ijs.sgmjournals.org/cgi/content/abstract/54/3/739>link</a>
+</td>
+</tr>
+<tr>
+<td>
+Teal T., Albro D., Stabler E. and Taylor C.E., Compression
+and adaptation, In <i>Fifth European Conference on Artificial Life</i>
+(pp. 709-19). Springer-Verlag. (1999).</td>
+<td><a href=ecal.ps.gz>gzipped ps</a></td>
+<td><a href=ecal.pdf>pdf</a></td>
+</tr>
+<tr>
+<td>Teal T.K. and Taylor C.E., Effects of compression on language
+evolution, <i>Artificial Life</i> Vol 6 Num 2 (pp. 129-143). MIT
+Press. (2000).</td>
+<td><a href=alife_revised.ps.gz>gzipped ps</a></td>
+<td><a href=alife_revised.pdf>pdf</a></td>
+</tr>
+<tr>
+<td>Teal T.K., The effects of compression on language acquisition and
+compression. Master's Thesis, Department of Organisimic Biology,
+Ecology and Evolution.  University of California, Los Angeles. (1999)</td>
+<td><a href=thesis.ps.gz>gzipped ps</a></td>
+<td><a href=thesis.pdf>pdf</a></td>
+</tr>
+</table>
+
+<!--
+<p>
+<u>Presentations</u>
+<table border=0 cellspacing=16>
+<tr>
+<td>Poster</td>
+<td>ASM 103rd General Meeting</td><td>Metabolic organization of <i>Shewanella oneidensis</i> biofilms</td></tr>
+<tr><td>Talk</td><td>ECAL 2000</td><td>Compression and adaptation</td></tr>
+
+</table>
+-->
+
+
+<!-- ##########  End Main Content ########## -->
+
+
+</td></tr></table>
+
+
+</td>
+
+<td>
+&nbsp;
+</td>
+
+</td></tr>
+<tr><td colspan=4><br><hr></td></tr>
+<tr><td>&nbsp;</td><td colspan=3><font size=-1><i>
+Last updated: April 12, 2012
+<br>Title photo credit: William R. Hewlett, California Academy of Sciences
+</font></i></td></tr>
+
+</table>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+Electroporation
+
+Items needed:
+LB
+Cuvette - .1 or .2cm gap
+Plasmids
+Competent cells
+ependorphs 
+test tubes
+
+
+Thaw competent cells on ice
+Mix 40microL cells and 2microL of the plasmid from a plasmid prep, and put the ependorph on ice
+Put cuvette on ice (.2cm gap) for about 5 min
+Put cells and plasmid mix into cuvette
+Tap on table to get the cells to the bottom of the cuvette
+Put cuvette into the machine until it clicks
+Zap cells - (setting for .2cm gap = 2.5kV, 200ohms, 25microF)
+Put in 1mL LB and pipet up and down to get cells into LB
+Put LB and cells into test tube
+Put in incubator at the temp the competent cells like and shake for 1 - 2.5 hours
+Spread 100microL on plate with correct antibiotic resistance
+Put plates in incubator at same temp as previously over night
+Single colonies should grow
+
+Also plate competent cells, non-electroporated, to make sure you're selecting
+

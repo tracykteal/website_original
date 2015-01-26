@@ -1,0 +1,173 @@
+<html>
+<head>
+<title>Tracy Teal's Tools</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+<link rel="stylesheet" href="../styles/home.css" type="text/css">
+
+<script language="JavaScript" type="text/javascript">
+<!--
+// for mouseovers
+function replaceClass(objCalling, txtClassName)
+{
+   objCalling.className = txtClassName;
+   window.event.cancelBubble = true;
+}
+-->
+</script>
+</head>
+
+<body bgcolor=white>
+<table border=0 width=80% cellpadding=0 cellspacing=0 align=center>
+
+<tr>
+<td width=1% align=left bgcolor=black>&nbsp;</td>
+<td bgcolor=black colspan=2><font size=-2>&nbsp;</td>
+<td width=1% align=right bgcolor=black>&nbsp;</td>
+</tr>
+
+
+<tr>
+<td bgcolor=black>&nbsp;</td>
+<td bgcolor=black width=15%>
+
+
+<!-- ########### Change image and top bar text here ############ -->
+
+<img src=../images/0031.jpeg width=150>
+</td>
+<td bgcolor=black>
+<font color=#f4f4f4 face=verdana><b>Tools -- programs and protocols</b></font> 
+<td bgcolor=black>&nbsp;</td>
+</tr>
+
+<!-- ###############  End changes ################# -->
+
+
+<tr><td bgcolor=white colspan=4>&nbsp;</td></tr>
+
+<tr>
+<td bgcolor=white>&nbsp;</td>
+
+<td valign=top align=left bgcolor=white colspan=2>
+
+<table border=0 cellpadding=4>
+<tr><td width=12% valign=top align=left>
+
+<!-- ### Change all classes to warmMenu if selected and change href's ### -->
+
+<a HREF="../index.shtml" 
+class="coolMenu"
+onMouseOver="replaceClass(this,'warmMenu')" 
+onMouseOut="replaceClass(this,'coolMenu')">
+Home</a>
+
+<p>
+<a HREF="../research/index.shtml" 
+class="coolMenu"
+onMouseOver="replaceClass(this,'warmMenu')" 
+onMouseOut="replaceClass(this,'coolMenu')">
+Research</a>
+
+<p>
+<a HREF="../tools/index.shtml" 
+class="warmMenu"
+onMouseOver="replaceClass(this,'warmMenu')" 
+onMouseOut="replaceClass(this,'warmMenu')">
+Tools</a>
+
+<p>
+<a HREF="../publications/index.shtml" 
+class="coolMenu"
+onMouseOver="replaceClass(this,'warmMenu')" 
+onMouseOut="replaceClass(this,'coolMenu')">
+Publications</a>
+
+<p>
+<a HREF="../cv/index.shtml" 
+class="coolMenu"
+onMouseOver="replaceClass(this,'warmMenu')" 
+onMouseOut="replaceClass(this,'coolMenu')">
+CV</a>
+
+
+<!-- ##### End menu #### -->
+
+
+<br>&nbsp;<br>
+
+</td>
+
+
+<td bgcolor=white>
+
+<!-- ######## Content of page ########## -->
+
+<table width=100% cellpadding=6>
+
+
+
+<tr><td bgcolor=white>
+<b>Programs:</b>
+</td></tr>
+<tr><td>
+<a name=os>
+<dl>
+<dt><a href=http://microbiomes.msu.edu/replicates/>454 Replicate Filter</a>
+<dd>This tool clusters and filters out artificially replicated sequences in 454 data. It returns a fasta file of unique sequences and a list of the sequences in each cluster.  Described in ...<br>&nbsp;
+<dt><a href=oligoselect/>OligoSelect</a>
+<dd>A Python program to create oligos from a file of gene sequences
+</dl>
+</td></tr>
+<tr><td bgcolor=white>
+<b>Protocols:</b>
+</td></tr>
+<tr><td>
+These are some lab protocols and media recipes in microbiology and molecular biology from the <a href=http://www.gps.caltech.edu/labs/newmanlab/>Newman Lab</a> at the <a href=http://www.caltech.edu>California Institute of Techonology</a>
+<p>
+<li><a href=protocols/competent_cells.txt>Making electrocompetent cells</a>
+
+<li><a href=protocols/quick_competent_cells.txt>Making quick electrocompetent cells</a>
+
+<li><a href=protocols/electroporation.txt>Electroporation protocol</a>
+
+<li><a href=protocols/SRB.txt>Sulfate Reducing Media (SRB) Recipe</a>
+<li><a href=protocols/LB.txt>LB Recipe</a>
+
+
+
+</td></tr>
+</table>
+
+<!-- ##########  End Main Content ########## -->
+
+
+</td></tr></table>
+
+
+</td>
+
+<td>
+&nbsp;
+</td>
+
+</td></tr>
+
+<tr><td colspan=4><br><hr></td></tr>
+<tr><td>&nbsp;</td><td colspan=3><font size=-1><i>
+Last updated: September 30, 2011
+<br>Title photo credit: William R. Hewlett, California Academy of Sciences
+</font></i></td></tr>
+
+
+</table>
+
+</body>
+</html>
+
+
+
+
+
+
+
+

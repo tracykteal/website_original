@@ -1,0 +1,10 @@
+LB Recipe
+
+Tryptone	10g/L
+Yeast extract	5g/L
+NaCl 		10g/L
+
+OR
+
+LB mix	20g/L
+NaCl	5g/L

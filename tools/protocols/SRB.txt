@@ -1,0 +1,34 @@
+SRB
+
+SRB Medium 10X (for making 500mL)
+
+MgCl2 . 6H20			8.132g
+NH4Cl				5.35g
+K2HPO4 . 3 H20			2.51g
+CaCl2 . 2H20			0.44g
+lactate syrup			46.71mL
+HEPES (not sodium HEPES)	32.5g
+Na2SO4				14.2g
+
+Filter sterilize
+
+
+1X SRB Freshwater (for making 100mL)
+
+10x SRB medium		10mL
+trace elements		0.8mL
+vitamins		0.1mL
+yeast extract		0.1g
+
+pH to 7.0 with NaOH
+autoclave
+
+
+1X SRB saltwater (for making 1L)
+
+1x SRB freshwater medium	1L
+NaCl				20g
+MgCl2 . 6H20			1.4g
+
+pH to 8.0
+autoclave

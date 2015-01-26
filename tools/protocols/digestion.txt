@@ -1,0 +1,12 @@
+Digestion
+
+Different for each Restriction enzyme so check parameters in book
+
+For low copy number
+5 microL DNA
+13microL sterile H20
+2microL buffer 
+.5microL 10x BSA if needed
+.5microL enzyme
+
+Put at the temperature the enzyme likes for ~1hour

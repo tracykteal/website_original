@@ -1,0 +1,38 @@
+Quick Competent Cells
+
+Items needed:
+ependorphs
+cold 10% glycerol
+cold H2O
+overnight culture on plates or in medium
+
+
+
+Quickie competent cells
+
+Resuspend a loopful of cells off a plate in 1mL cold sterile water
+Wash 2 times with cold water
+Wash 1 time with cold 10% glycerol
+Resuspend in 50microL cold glycerol
+
+Wash = centrifuge ~1min at 13,000x, decant supernatant
+
+
+
+
+No-so-quickie Competent cells
+
+Innoculate 3mL LB with 100microL overnight culture
+Shake vigorously for ~4 hours
+Spin down cells (~1min at 13,000x) - to do in ependorph, do 1.5 mL, add the rest and spin again
+Decant supernatant
+
+Repeat below 3 times:
+Keep cold!
+Add 1mL cold 10% glycerol 
+Resuspend cells
+Spin down (~1min, 13,000x) - use a centrifuge in the cold room, so everything stays cold!
+Decant supernatant
+
+Add 90microL 10% cold glycerol for final volume
+Aliquot 40microL to 2 tubes for 2 electroporations

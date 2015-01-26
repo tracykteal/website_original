@@ -1,0 +1,31 @@
+Making competent cells
+
+Be sure to keep everything cold!!
+
+Items needed:
+
+100mL LB in flask
+150 mL cold H2O
+3mL cold 10% glycerol
+lots of ependorphs
+centrifuge tubes
+ice
+dry ice
+
+
+
+Protocol:
+
+Innoculate 100mL of a LB with 1mL fresh overnight
+Grow cells with vigorous shaking to OD 600 of 0.5 to 1 - about 4 hours
+Chill the culture on ice for 15 to 30 min, centrifuge in a cold rotor at 4000X for 15 min
+Decant supernatant
+Resuspend pellets in total of 100mL of cold water and centrifuge
+Decant supernatant
+Resuspend in 50mL of cold water and centrifuge
+Decant supernatant
+Resuspend in 2mL 10% cold gycerol and centrifuge
+Decant supernatant
+Resuspend in a final volume of .3 mL in 10% cold glycerol - cell conc should be about 3^10 cells/mL
+Aliquot cells into 40microL amounts and freeze on dry ice.  Store at -80 deg C
+Cells are good for at least 6 months
