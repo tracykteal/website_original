@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>Tracy Teal's homepage</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="stylesheet" href="styles/home.css" type="text/css">
 
 <script language="JavaScript" type="text/javascript">
@@ -36,7 +36,7 @@ function replaceClass(objCalling, txtClassName)
 <img src=images/0011.jpeg width=150>
 </td>
 <td bgcolor=black>
-<font color=#f4f4f4 face=verdana><b>Home</b></font> 
+<font color=#f4f4f4 face=verdana><b>Home</b></font>
 <td bgcolor=black>&nbsp;</td>
 </tr>
 
@@ -55,23 +55,23 @@ function replaceClass(objCalling, txtClassName)
 
 <!-- ### Change all classes to warmMenu if selected and change href's ### -->
 
-<a HREF="./index.shtml" 
+<a HREF="./index.shtml"
 class="warmMenu"
-onMouseOver="replaceClass(this,'warmMenu')" 
+onMouseOver="replaceClass(this,'warmMenu')"
 onMouseOut="replaceClass(this,'warmMenu')">
 Home</a>
 
 <p>
-<a HREF="./research/index.shtml" 
+<a HREF="./research/index.shtml"
 class="coolMenu"
-onMouseOver="replaceClass(this,'warmMenu')" 
+onMouseOver="replaceClass(this,'warmMenu')"
 onMouseOut="replaceClass(this,'coolMenu')">
 Research</a>
 
 <p>
-<a HREF="./tools/index.shtml" 
+<a HREF="./tools/index.shtml"
 class="coolMenu"
-onMouseOver="replaceClass(this,'warmMenu')" 
+onMouseOver="replaceClass(this,'warmMenu')"
 onMouseOut="replaceClass(this,'coolMenu')">
 Tools</a>
 
@@ -84,16 +84,16 @@ Proposals</a>
 
 <!--
 <p>
-<a HREF="./publications/index.shtml" 
+<a HREF="./publications/index.shtml"
 class="coolMenu"
-onMouseOver="replaceClass(this,'warmMenu')" 
+onMouseOver="replaceClass(this,'warmMenu')"
 onMouseOut="replaceClass(this,'coolMenu')">
 Publications</a>
 
 <p>
-<a HREF="./cv/index.shtml" 
+<a HREF="./cv/index.shtml"
 class="coolMenu"
-onMouseOver="replaceClass(this,'warmMenu')" 
+onMouseOver="replaceClass(this,'warmMenu')"
 onMouseOut="replaceClass(this,'coolMenu')">
 CV</a>
 -->
@@ -112,19 +112,26 @@ CV</a>
 
 <font face=verdana size=-1>
 
-I am currently an Assistant Professor in Microbiology and Molecular Genetics at
-Michigan State University, where I work in bioinformatics and microbial ecology.
+I am currently the Project Lead for <a href=http://datacarpentry.org>Data Carpentry</a> and
+an assistant professor in <a href=http://www.beacon-center.org>BEACON</a> at
+Michigan State University with an adjunct appointment at the <a href=http://www.kbs.msu.edu>Kellogg
+Biological Station</a>.
+
 <p>
-My work in bioinformatics focuses on metagenomic analysis, with an emphasis on 
-functional analysis post-assembly.  My aim is to be able to both generate 
+My appreciation and enthusiasm for data comes most recently from working in
+bioinformatics and microbial ecology.
+
+<p>
+My work in bioinformatics focuses on metagenomic analysis, with an emphasis on
+functional analysis post-assembly.  My aim is to be able to both generate
 hypotheses from complex matrices of functional traits and to be able to address
-specific hypothesis-driven questions about the environment of interest.  Toward this aim, I'm developing approaches and tools that make this both 
+specific hypothesis-driven questions about the environment of interest.  Toward this aim, I'm developing approaches and tools that make this both
 computationally tractable and accessible to biological researchers.
 <p>
-My specific research focus is on understanding how agricultural practices affect soil microbial communities and how those communities might affect changes in the production and consumption of greenhouse gases.  
+My specific research focus is on understanding how agricultural practices affect soil microbial communities and how those communities might affect changes in the production and consumption of greenhouse gases.
 
 I work primarily at the <a href=http://lter.kbs.msu.edu/>Kellogg Biological Station Long-Term Ecological Research</a> station and the <a href=http://www.glbrc.org/>Great Lakes Bioenergy Research Center</a> Extensive Sites,
-where I collect soil samples for targeted molecular and whole genome shotgun metagenomic analyses. 
+where I collect soil samples for targeted molecular and whole genome shotgun metagenomic analyses.
 I am also developing computational tools to manage and utilize this metagenomic data to address relevant questions in microbial community ecology.  I developed a <a href=http://microbiomes.msu.edu/replicates/>Replicate Filter</a> to remove artificial replicates from 454 and Ion Torrent data.
 <p>
 As a part of the Sustainability group for the <a href=http://www.glbrc.org/>Great Lakes Bioenergy Center</a>, I have been able to address questions about the effects of crop type and management on microbial communities and their methane consumption and nitrous oxide production to determine an aspect of the sustainability of that crop for the environment.
@@ -132,17 +139,17 @@ As a part of the Sustainability group for the <a href=http://www.glbrc.org/>Grea
 I also work with many researchers at MSU, primarily on metagenomics and genome assembly.  I'm affiliated with the <a href=http://www.mmg.msu.edu/erin/>ERIN: Enterics Research Investigational Network</a> group and the <a href=http://icer.msu.edu>Institute for Cyber-Enabled Research (iCER)</a>.
 <p>
 As a component of enabling 'big data' research for biologists, I am committed
-to training researchers in computational techniques.  I am instructor for <a href=http://software-carpentry.org>Software Carpentry</a>, an organization that 
-teaches software development skills to researchers, and conduct workshops in 
+to training researchers in computational techniques.  I am instructor for <a href=http://software-carpentry.org>Software Carpentry</a>, an organization that
+teaches software development skills to researchers, and conduct workshops in
 Next-Generation Sequencing analysis through iCER and <a href=http://2013-msu-zero-entry.readthedocs.org/en/latest/>NGS workshops</a>.
 
 
 
 <!--
 <p><br>
-<i>"When the spirits are low, when the day appears dark, when work 
-becomes monotonous, when hope hardly seems worth having, just mount a 
-bicycle and go out for a spin down the road, without thought on 
+<i>"When the spirits are low, when the day appears dark, when work
+becomes monotonous, when hope hardly seems worth having, just mount a
+bicycle and go out for a spin down the road, without thought on
 anything but the ride you are taking."</i>
 <p>
 -Arthur Conan Doyle, in an 1896 article for Scientific American
@@ -164,7 +171,7 @@ anything but the ride you are taking."</i>
 </td></tr>
 <tr><td colspan=4><br><hr></td></tr>
 <tr><td>&nbsp;</td><td colspan=3><font size=-1><i>
-Last updated: December 6, 2013 
+Last updated: December 6, 2013
 <br>Title photo credit: William R. Hewlett, California Academy of Sciences
 </font></i></td></tr>
 </table>
@@ -173,49 +180,3 @@ Last updated: December 6, 2013
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
